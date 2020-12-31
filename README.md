@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xorgnak" alt="xorgnak" /></a></p>
 
-- 🔭 I’m currently working on [nomadic](https://github.com/xorgnak/nomadic)
+- 🔭 I’m currently working on [nomadic](https://github.com/nomadic-linux/nomadic)
 
 - 🌱 I’m currently learning **machine learning, artificial neural networks, and IoT goodness.**
 
