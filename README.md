@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xorgnak](https://github.com/xorgnak)
 
-- 📝 I regularly write articles on [https://github.com/xorgnak/resume/issues](https://github.com/xorgnak/resume/issues)
+- 📝 I regularly write articles on [https://github.com/xorgnak/resume/issues](https://github.com/xorgnak/resume/issues?q=is%3Ablog)
 
 - 💬 Ask me about **something remarkable.**
 
