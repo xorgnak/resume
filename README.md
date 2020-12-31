@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://xorgnak.github.io/resume/](https://xorgnak.github.io/resume/)
 
-- ⚡ Fun fact **Only you can prevent forest fires.**
+- ⚡ Fun fact **computers think using etchings in poisoned sand and measure time using vibrating crystals**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
