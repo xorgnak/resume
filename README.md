@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href='https://github.com/xorgnak/resume'><img src="https://komarev.com/ghpvc/?username=xorgnak&label=Erik&color=0e75b6&style=flat" alt="Erik" /></a>.</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://github.com/xorgnak/resume'>Erik</a>.</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xorgnak" alt="xorgnak" /></a></p>
 
