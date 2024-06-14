@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/c/xorgnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="xorgnak" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xorgnak&show_icons=true&locale=en&layout=full" alt="xorgnak" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xorgnak&show_icons=true&locale=en&layout=compact" alt="xorgnak" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xorgnak&show_icons=true&locale=en" alt="xorgnak" /></p>
 
