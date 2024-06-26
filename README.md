@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href='https://xorgnak.github.io/resume'>Erik</a>.</h1>
-- ⚡ Fun fact **computers think using etchings in poisoned sand and measure time using vibrating crystals**
+<h3><span style='color: gold; padding: 0 1% 0 1%;'>Fun fact</span><span>computers think using etchings in poisoned sand and measure time using vibrating crystals</span></h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xorgnak" alt="xorgnak" /></a></p>
 
