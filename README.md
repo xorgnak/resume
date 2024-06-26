@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href='https://xorgnak.github.io/resume'>Erik</a>.</h1>
+- ⚡ Fun fact **computers think using etchings in poisoned sand and measure time using vibrating crystals**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xorgnak" alt="xorgnak" /></a></p>
-
-- ⚡ Fun fact **computers think using etchings in poisoned sand and measure time using vibrating crystals**
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xorgnak&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=25" alt="xorgnak" /></p>
 
