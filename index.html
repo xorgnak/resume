@@ -70,6 +70,7 @@
     <li>I have been tasked with situations in which a single failure can be catastrophic and managed others doing the same.</li>
     <li>I have lectured to novices and experts and gotten my point across equally.</li>
     <li>I have successfully managed individuals and groups from hourly to professional.</li>
+    <li>I have fielded 3am phone calls when the response mattered.</li>			  
   </ul>
 </fieldset>  
 
@@ -95,7 +96,26 @@
     <li><a href='https://github.com/xorgnak/llamafile'>llamafile</a><span>A pure ruby wrapper for a local llamafile. (with prompting)</span></li>
     <li><a href='https://github.com/xorgnak/pvector'>pvector</a><span>A pstore backed knn for local plaintext sources.</span></li>
     <li><a href='https://github.com/xorgnak/meiou'>meiou</a><span>A generic full text search engine to provide personality to llm responses.</span></li>
+    <li><a href='https://github.com/xorgnak/resume'>more...</a><span>All my github stats, including working languages.</span></li>
   </ul>
-</fieldset>  
+</fieldset>
+<script>
+	var count = 1;
+	$('.bg').hide();
+	$('.info').hide();
+	$('#bg_0').show();
+	$('#info_0').show();
+	setInterval(function() {
+		$('.bg').hide();
+		$('.info').hide();
+		$('#bg_' + count).show();
+		$('#info_' + count).show();
+		if (count > 5) {
+			count = 0;
+		} else {	
+			count++;
+		}	
+	}, 10000);
+</script>
 </body>
 </html>
