@@ -2,22 +2,22 @@
 <html>
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
   <style>
-    #bg { position: fixed; top: 0; left: 0;width: 100%; height: 100%; z-index: -1; }
+    .bg { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; }
+    .info { position: fixed; bottom: 0; width: 100%; z-index: 1; }
     fieldset { border-radius: 20px; margin: 2% 2px 2% 2px; background-color: rgba(0,0,0,0.3); }
-    fieldset > legend { border-radius: 20px; border-left: thin solid white; border-right: thin solid white; padding: 0% 3% 0% 3%; background-color: rgba(0,0,0,0.3);}
-    div > * { display: block; }
-    nav > a { text-decoration: none; }
-    nav > a > img { background-color: white; padding: 10%; margin: 6%; border-radius: 20px; }
+    fieldset > legend { border-radius: 20px; border-left: thin solid white; border-right: thin solid white; padding: 0% 3% 0% 3%; background-color: rgba(0,0,0,0.3);
+    a { text-decoration: none; padding: 0 2% 0 2%; }
+    ul { text-align: left; }
   </style>
 <head>
 </head>
 <body style='text-align: center; margin: 0; padding: 0; background-color: black; color: gold; font-family: monospace;'>
-  <img id='bg_5' src='https://xorgnak.github.io/resume/stagehand.jpg'> 
-  <img id='bg_4' src='https://xorgnak.github.io/resume/aviator_erik.png'>
-  <img id='bg_3' src='https://xorgnak.github.io/resume/rigger.jpg'>
-  <img id='bg_2' src='https://xorgnak.github.io/resume/bench.jpg'>
-  <img id='bg_1' src='https://xorgnak.github.io/resume/scout.jpg'>
-  <img id='bg_0' src='https://xorgnak.github.io/resume/hockey.jpg'>
+  <img id='bg_5' class='bg' src='https://xorgnak.github.io/resume/stagehand.jpg'> 
+  <img id='bg_4' class='bg' src='https://xorgnak.github.io/resume/aviator_erik.png'>
+  <img id='bg_3' class='bg' src='https://xorgnak.github.io/resume/rigger.jpg'>
+  <img id='bg_2' class='bg' src='https://xorgnak.github.io/resume/bench.jpg'>
+  <img id='bg_1' class='bg' src='https://xorgnak.github.io/resume/scout.jpg'>
+  <img id='bg_0' class='bg' src='https://xorgnak.github.io/resume/hockey.jpg'>
 
 <fieldset id='info_0' class='info'>   
   <legend>Erik Olson</legend>
@@ -89,7 +89,7 @@
     <li><a href='https://github.com/xorgnak/nomad'>nomad</a><span>An os overlay for Debian providing a minimal work enviroment on the edge and cloud.</span></li>
     <li><a href='https://github.com/xorgnak/llamafile'>llamafile</a><span>A pure ruby wrapper for a local llamafile. (with prompting)</span></li>
     <li><a href='https://github.com/xorgnak/pvector'>z4</a><span>A pstore backed knn for local plaintext sources.</span></li>
-    <li><a href='https://github.com/xorgnak/meiou'>z4</a><span>A generic full text search engine to provide personality to llm responses.</span></li>
+    <li><a href='https://github.com/xorgnak/meiou'>meiou</a><span>A generic full text search engine to provide personality to llm responses.</span></li>
   </ul>
 </fieldset>  
 </body>
